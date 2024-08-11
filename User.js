@@ -1,5 +1,5 @@
 class User {
-    construction(fulname, email, password) {
+    constructor(fulname, email, password) {
     this.fulname = fulname
     this.email = email
     this.password = password
